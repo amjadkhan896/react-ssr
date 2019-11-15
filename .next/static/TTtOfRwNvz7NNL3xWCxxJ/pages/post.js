@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{EhLH:function(n,t,u){"use strict";u.r(t);var e=u("q1tI"),o=u.n(e).a.createElement;t.default=function(n){return o("h1",null,n.url.query.title)}},MDTK:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/post",function(){return u("EhLH")}])}},[["MDTK",0,1]]]);
