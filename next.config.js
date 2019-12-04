@@ -1,7 +1,7 @@
 module.exports = {
     /* config options here */
     compress: false,
-    target: 'serverless',
+   // target: 'serverless',
     pageExtensions: ['mdx', 'jsx', 'js'],
 
     "presets": ["@emotion/babel-preset-css-prop"],
